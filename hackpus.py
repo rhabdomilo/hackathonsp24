@@ -33,7 +33,7 @@ from langchain.chains import LLMChain
 import os
 
 # Set your OpenAI API key directly
-openai_api_key = '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'
+openai_api_key = 'aaaaaaa'
 openai.api_key = openai_api_key
 
 # Initialize OpenAIEmbeddings with the API key
